@@ -1,2 +1,2 @@
-# Iot-Tabanl-Ayd-nlatma-Kontrol--Rasberry-Pi
-Rasberry Pi Pico W kullanarak aydınltma kontrolü projesi
+# Iot-TabanliAydinlatmaKontrolu_Rasberry-Pi
+Rasberry Pi Pico W kullanarak aydınlatma kontrolü projesi
